@@ -1,0 +1,47 @@
+# emBO++
+
+> emBO++ (Embedded Bochum, the embedded C++ conference in Bochum, Germany) was an international conference on embedded systems and hardware-related software development. It was first held in 2016 with four people, has been open to the public since 2017, took place every year until 2026, and has ended after ten public editions. There will be no further edition. This page is the farewell page and the entrance to the archive of all recorded talks.
+
+## Key facts
+
+- Name: emBO++ (also written "emBO++ – Embedded C++ Conference in Bochum", "Embedded Bochum")
+- Type: annual, international, community-driven conference; status: concluded
+- Years: 2016–2026 (public since 2017), ten public editions
+- Location: Bochum, Germany (Ruhr-Universität Bochum)
+- Language: English
+- Topics: physics and classical electrical engineering, system design of boards for embedded systems, development toolchains, programming libraries, C++ language features and their standardization, bare-metal and hardware-related software development
+- Organizer: Open Skunkforce e.V., Husemannplatz 5a, 44809 Bochum, Germany
+- Contact: info@embo.io
+- All recorded talks (2017–2025) remain online for free on YouTube
+
+## Team
+
+- Stephan Bökelmann (MaxClerkwell): initiator and main organiser since the first edition in 2016. Managing Director of nabla B. https://maxclerkwell.tech/
+- Odin Holmes (odinthenerd): second organiser. Managing Director of Auto-Intern GmbH, author of the Kvasir library. https://github.com/odinthenerd
+- Tabea Bökelmann (née Röthemeyer): core team since 2017. Head of Frontend-Software at Auto-Intern GmbH. https://tabeatheunicorn.space/
+- René Glitza: core team since 2021. Chief Product Officer of Auto-Intern GmbH. https://www.linkedin.com/in/rene-glitza/
+- Philipp Lehmann (PhilippTheServer): core team since 2022. Head of Automation and Deployment at nerd_force1. https://philipptheserver.com/
+
+## Talk archive
+
+- [emBO++ 2025](https://www.youtube.com/watch?v=0wD0yopX9MI&list=PLIXq8kws1BI2KBNaQX8qQojLgB6goQRKH): recorded talks of the 2025 edition
+- [emBO++ 2024](https://www.youtube.com/playlist?list=PLIXq8kws1BI1FNZfzDx3hL1cEu6bLcsiO)
+- [emBO++ 2023](https://www.youtube.com/playlist?list=PLIXq8kws1BI18rwGhmXJ3bYImRJ_nqWEe)
+- [emBO++ 2022](https://www.youtube.com/playlist?list=PLIXq8kws1BI2ipky-VnkM8sWNR2pYmAOV)
+- [emBO++ 2021](https://www.youtube.com/playlist?list=PLIXq8kws1BI13bcTWNriKzirk5ayZehzT)
+- [emBO++ 2020](https://www.youtube.com/watch?v=yFYoVgU1a5k&list=PLIXq8kws1BI36WI541w4gSuKA98ku5gJZ)
+- [emBO++ 2019](https://www.youtube.com/watch?v=5WYc3SbuyU8&list=PLIXq8kws1BI0DphR20fuG7n07F0DVM8VA)
+- [emBO++ 2018](https://www.youtube.com/playlist?list=PLIXq8kws1BI1Ff2pLc03aVj3MgKEV0RRL)
+- [emBO++ 2017](https://www.youtube.com/playlist?list=PLIXq8kws1BI2JBo7DHIE5VFXX089W4rHL)
+- [All playlists](https://www.youtube.com/@NerdForce1/playlists): YouTube channel hosting every emBO++ recording
+
+## Pages
+
+- [Farewell page](https://skunkforce.github.io/embo/): story of the conference, team, thank-you note and links to all talks
+- [Source repository](https://github.com/skunkforce/embo): static HTML source of this page
+
+## Optional
+
+- [Open Skunkforce e.V.](https://skunkforce.org/): the non-profit association behind emBO++
+- [emBO++ on LinkedIn](https://de.linkedin.com/showcase/emboconference)
+- [CppCast episode on emBO++ with Odin Holmes](https://cppcast.com/odin-holmes-embopp/)

@@ -1,0 +1,6 @@
+# emBO++ farewell page – everything may be crawled, including by AI crawlers.
+# LLM-friendly summary: https://skunkforce.github.io/embo/llms.txt
+User-agent: *
+Allow: /
+
+Sitemap: https://skunkforce.github.io/embo/sitemap.xml
